@@ -32,7 +32,7 @@ Add dependency in your pubspec.yaml
 ```
 dependencies:
   flutter_easy_fonts:
-    path: ../flutter_easy_fonts
+    path: https://github.com/Excelsior-Technologies-Community/flutter_easy_fonts/tree/stage
 ```
 Then run:
 ```
