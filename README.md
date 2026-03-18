@@ -1,4 +1,4 @@
-# flutter_easy_fonts
+## 🎯flutter_easy_fonts
 ```
 flutter_easy_fonts is a powerful reusable Flutter typography library that helps developers easily manage fonts, text styles and responsive typography in Flutter applications.
 
